@@ -1,0 +1,32 @@
+# --- Unity generated (do NOT commit) ---
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+CrashReports/
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# --- IDE / OS cruft ---
+.vs/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+.DS_Store
+
+# --- Platform outputs ---
+*.apk
+*.aab
+*.ipa
+
+# --- Asset Store tools cache ---
+/Assets/AssetStoreTools*
